@@ -6,7 +6,7 @@ window.SITE_CONTENT = window.SITE_CONTENT || {};
 
 window.SITE_CONTENT.news = {
   "heading": "Latest news",
-  "introduction": "Research and academic updates will be posted here!",
+  "introduction": "Research and academic updates will be posted here.",
   "visibleItems": 1,
   "items": [
     {
