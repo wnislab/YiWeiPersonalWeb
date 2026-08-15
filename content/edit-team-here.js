@@ -15,7 +15,7 @@ window.SITE_CONTENT.team = {
       description: "Director of the WNIS Lab and researcher in intelligent wireless and optical networking systems.",
       photo: "assets/images/profile/nan-cen.jpg",
       email: "nan.cen@slu.edu",
-      website: "https://wnislab.github.io/"
+      website: "https://wnislab.github.io/NanCenPersonalWeb/"
     },
     {
       name: "Yue Zhang",
@@ -23,7 +23,7 @@ window.SITE_CONTENT.team = {
       description: "Optical wireless communication and sensing, security, and UAV networking.",
       photo: "assets/images/team/yue-zhang.webp",
       email: "yue.zhang.5@slu.edu",
-      website: "https://www.yzn95.com/"
+      website: "https://wnislab.github.io/YueZhangPersonalWeb/"
     },
     {
       name: "Peijun Hou",
@@ -31,7 +31,7 @@ window.SITE_CONTENT.team = {
       description: "Intelligent network control, hybrid LiFi/WiFi systems, and learning-driven wireless networks.",
       photo: "assets/images/team/peijun-hou.jpg",
       email: "peijun.hou@slu.edu",
-      website: "https://sites.google.com/view/peijunhou/home"
+      website: "https://wnislab.github.io/PeijunPersonalWeb/"
     }
   ]
 };
