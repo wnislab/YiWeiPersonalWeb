@@ -12,7 +12,7 @@ window.SITE_CONTENT.site = {
   "address": "Ritter Hall 019, St. Louis, MO",
   "portrait": "assets/images/profile/yi-wei.jpg",
   "sluWebsite": "https://www.slu.edu/science-and-engineering/academics/computer-science/index.php",
-  "scholarWebsite": ""
+  "scholarWebsite": "https://scholar.google.com/citations?user=Q1_vrWIAAAAJ&hl=en"
 };
 
 window.SITE_CONTENT.footer = {

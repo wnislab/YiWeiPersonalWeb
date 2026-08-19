@@ -1,20 +1,33 @@
 /* EDIT TEACHING AND ACADEMIC SERVICE HERE.
- * Course details and course links are optional.
+ * This file is maintained by WNIS Website Editor.
+ * Keep the surrounding JavaScript structure unchanged when editing manually.
  */
 window.SITE_CONTENT = window.SITE_CONTENT || {};
 
 window.SITE_CONTENT.teaching = {
-  heading: "Teaching experience",
-  introduction: "Teaching information will be added when available.",
-  courses: [
-    { code: "To be updated", title: "Teaching experience coming soon", details: "Course and semester details will be listed here.", link: "" }
+  "heading": "Teaching experience",
+  "introduction": "Teaching information will be added when available.",
+  "courses": [
+    {
+      "code": "2025 Fall - 2026 Spring",
+      "title": "Teaching Assistant ",
+      "details": "Computer networks.",
+      "link": ""
+    }
   ]
 };
 
 window.SITE_CONTENT.service = {
-  heading: "Academic service",
-  introduction: "Academic service information will be added when available.",
-  items: [
-    { organization: "To be updated", role: "Academic service details coming soon" }
+  "heading": "Academic service",
+  "introduction": "Academic service information will be added when available.",
+  "items": [
+    {
+      "organization": "Communications and Networks",
+      "role": "Reviewer·2025—present"
+    },
+    {
+      "organization": "ITU Journal on Future and Evolving Technologies (ITU J-FET)",
+      "role": "Reviewer · 2026—present"
+    }
   ]
 };

@@ -11,7 +11,7 @@ window.SITE_CONTENT.news = {
   "items": [
     {
       "date": "2026-08-15",
-      "text": "Research and academic updates coming soon.",
+      "text": "Janus—one agent, two roles for digital twin construction and network orchestration—accepted to GLOBECOM 2026.",
       "acceptanceRate": ""
     }
   ]
